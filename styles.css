@@ -1,0 +1,55 @@
+body{
+    background-color: lightgray;
+    font-family: sans-serif;
+}
+.parent{
+    background-color: black;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 130px;
+  
+}
+
+#pic0{
+    width: 150px;
+    display: block;
+    margin: auto;
+    padding: 25px;
+    border: 2px dotted black;
+    border-radius: 50%;
+
+}
+.name{
+    color: white;
+    text-align: center;
+    font-size: 25px;
+    border-color: 5px solid white;
+
+}
+.description{
+    color: white;
+    text-align: center;
+    font-size: 15px;
+}
+
+#pic1{
+    height: 50px;
+    width: 50;
+    
+}
+#pic2{
+    height: 50px;
+    width: 50px;
+  
+}
+#pic3{
+    height: 50px;
+    width: 50px;
+}
+
+.icon{
+    background-color: #ffffff;
+    text-align: center;
+    padding: 2px;
+}
